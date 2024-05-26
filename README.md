@@ -1,6 +1,10 @@
 # 2D Tower Defense Game
 
+## увесь код знаходиться у Assets/Scripts/
+
 ## Опис
+
+![Game Screenshot](https://github.com/nikitaq121/Tower-Defense/blob/main/gamescreen.jpg)
 
 Це 2D гра жанру Tower Defense, де гравець будує захищаєтсья від різної нежиті. Для цього у грі є різні турелі, кожна з яких має свої властивості і особливості.
 
@@ -23,7 +27,9 @@
 4. Використовуйте зароблені монети для модернізації  та побудови нових турелей.
 5. Захистіть свою базу від усіх хвиль ворогів, щоб перемогти.
 
-## Скриншоти
+## Скриншот
+
+![Game Screenshot](https://github.com/nikitaq121/Tower-Defense/blob/main/screen2.jpg)
 
 ## Автор
 
